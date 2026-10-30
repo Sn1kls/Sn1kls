@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170">
+<style>
+  .bg{fill:#ffffff} .border{stroke:#d0d7de} .title{fill:#1f2328} .text{fill:#59636e}
+  .accent{fill:#1a7f37} .chip{fill:#f6f8fa;stroke:#d0d7de} .chiptext{fill:#1f2328}
+  .glow{fill:#1a7f37;opacity:.07}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117} .border{stroke:#30363d} .title{fill:#f0f6fc} .text{fill:#9198a1}
+    .accent{fill:#3fb950} .chip{fill:#161b22;stroke:#30363d} .chiptext{fill:#f0f6fc}
+    .glow{fill:#3fb950;opacity:.10}
+  }
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+</style><rect class="bg border" x="1" y="1" width="578" height="168" rx="12" stroke-width="2"/><text class="accent mono" x="28" y="44" font-size="15">~/</text><text class="title" x="50" y="45" font-size="22" font-weight="600">BudgetTracker</text><text class="text" x="28" y="80" font-size="15">Personal finance app: iOS client + REST API.</text><text class="text" x="28" y="102" font-size="15">Course project, cleaned up with fixes, tests and CI.</text><rect class="chip" x="28" y="122" width="64" height="26" rx="13"/><text class="chiptext mono" x="60.0" y="139.32" font-size="12" text-anchor="middle">Django</text><rect class="chip" x="98" y="122" width="42" height="26" rx="13"/><text class="chiptext mono" x="119.0" y="139.32" font-size="12" text-anchor="middle">DRF</text><rect class="chip" x="146" y="122" width="42" height="26" rx="13"/><text class="chiptext mono" x="167.0" y="139.32" font-size="12" text-anchor="middle">JWT</text><rect class="chip" x="194" y="122" width="72" height="26" rx="13"/><text class="chiptext mono" x="230.0" y="139.32" font-size="12" text-anchor="middle">SwiftUI</text></svg>
