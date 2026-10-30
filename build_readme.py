@@ -10,6 +10,7 @@ from pathlib import Path
 
 USER = "Sn1kls"
 LIMIT = 6
+PER_REPOSITORY = 2
 README = Path(__file__).parent / "README.md"
 SECTION = re.compile(r"(<!-- recent_start -->\n).*?(<!-- recent_end -->)", re.DOTALL)
 
@@ -25,7 +26,18 @@ def fetch_merged_pull_requests() -> list[dict]:
     with urllib.request.urlopen(request, timeout=30) as response:
         items = json.load(response)["items"]
     items.sort(key=lambda item: item["pull_request"]["merged_at"], reverse=True)
-    return items[:LIMIT]
+    shipped: list[dict] = []
+    per_repository: dict[str, int] = {}
+    for item in items:
+        # Release PRs (develop -> main) repeat titles of PRs that are already listed.
+        if item["title"].lower().startswith("release"):
+            continue
+        repository = item["repository_url"]
+        if per_repository.get(repository, 0) >= PER_REPOSITORY:
+            continue
+        per_repository[repository] = per_repository.get(repository, 0) + 1
+        shipped.append(item)
+    return shipped[:LIMIT]
 
 
 def render(pull_requests: list[dict]) -> str:
