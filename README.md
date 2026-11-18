@@ -17,8 +17,8 @@
 ### Recently shipped
 
 <!-- recent_start -->
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: version 0.4.0](https://github.com/Sn1kls/lyampochka-bot/pull/39), 09 Nov 2026
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat: optional error reports to Sentry, without personal data](https://github.com/Sn1kls/lyampochka-bot/pull/38), 09 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: version 0.4.1](https://github.com/Sn1kls/lyampochka-bot/pull/42), 17 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [fix: retry a 200 answer that is not JSON before calling it a schema change](https://github.com/Sn1kls/lyampochka-bot/pull/41), 17 Nov 2026
 - [BudgetTrackerApp](https://github.com/Sn1kls/BudgetTrackerApp): [chore: portfolio cleanup (repo structure, backend fixes, CI, README)](https://github.com/Sn1kls/BudgetTrackerApp/pull/1), 30 Oct 2026
 <!-- recent_end -->
 
