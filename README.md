@@ -17,8 +17,8 @@
 ### Recently shipped
 
 <!-- recent_start -->
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [fix: make staging creates the data folder for its database](https://github.com/Sn1kls/lyampochka-bot/pull/49), 20 Nov 2026
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: local staging bot with its own env file](https://github.com/Sn1kls/lyampochka-bot/pull/47), 20 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.6.0](https://github.com/Sn1kls/lyampochka-bot/pull/50), 20 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(telegram): feedback to the developer with replies](https://github.com/Sn1kls/lyampochka-bot/pull/48), 20 Nov 2026
 - [BudgetTrackerApp](https://github.com/Sn1kls/BudgetTrackerApp): [chore: portfolio cleanup (repo structure, backend fixes, CI, README)](https://github.com/Sn1kls/BudgetTrackerApp/pull/1), 30 Oct 2026
 <!-- recent_end -->
 
