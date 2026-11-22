@@ -17,9 +17,8 @@
 ### Recently shipped
 
 <!-- recent_start -->
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.6.0](https://github.com/Sn1kls/lyampochka-bot/pull/50), 20 Nov 2026
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(telegram): feedback to the developer with replies](https://github.com/Sn1kls/lyampochka-bot/pull/48), 20 Nov 2026
-- [BudgetTrackerApp](https://github.com/Sn1kls/BudgetTrackerApp): [chore: portfolio cleanup (repo structure, backend fixes, CI, README)](https://github.com/Sn1kls/BudgetTrackerApp/pull/1), 30 Oct 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.10.0](https://github.com/Sn1kls/lyampochka-bot/pull/63), 22 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(telegram): short schedule pushes, battery reminders, exact reminder mode](https://github.com/Sn1kls/lyampochka-bot/pull/62), 22 Nov 2026
 <!-- recent_end -->
 
 <sub>This list updates itself every day from my merged pull requests in public repos ([build_readme.py](build_readme.py), run by GitHub Actions).</sub>
