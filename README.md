@@ -17,8 +17,8 @@
 ### Recently shipped
 
 <!-- recent_start -->
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.10.0](https://github.com/Sn1kls/lyampochka-bot/pull/63), 22 Nov 2026
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(telegram): short schedule pushes, battery reminders, exact reminder mode](https://github.com/Sn1kls/lyampochka-bot/pull/62), 22 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.10.2](https://github.com/Sn1kls/lyampochka-bot/pull/70), 23 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [fix(reminders): exact mode counts down only to the sure outage](https://github.com/Sn1kls/lyampochka-bot/pull/69), 23 Nov 2026
 <!-- recent_end -->
 
 <sub>This list updates itself every day from my merged pull requests in public repos ([build_readme.py](build_readme.py), run by GitHub Actions).</sub>
