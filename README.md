@@ -17,8 +17,8 @@
 ### Recently shipped
 
 <!-- recent_start -->
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.10.2](https://github.com/Sn1kls/lyampochka-bot/pull/70), 23 Nov 2026
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [fix(reminders): exact mode counts down only to the sure outage](https://github.com/Sn1kls/lyampochka-bot/pull/69), 23 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(telegram): button to the region's current-outages page](https://github.com/Sn1kls/lyampochka-bot/pull/93), 24 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.13.0](https://github.com/Sn1kls/lyampochka-bot/pull/90), 24 Nov 2026
 <!-- recent_end -->
 
 <sub>This list updates itself every day from my merged pull requests in public repos ([build_readme.py](build_readme.py), run by GitHub Actions).</sub>
