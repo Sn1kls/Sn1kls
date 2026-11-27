@@ -17,8 +17,8 @@
 ### Recently shipped
 
 <!-- recent_start -->
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.15.0](https://github.com/Sn1kls/lyampochka-bot/pull/98), 26 Nov 2026
-- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(outages): emergency and planned outages now, Volyn via the Mac](https://github.com/Sn1kls/lyampochka-bot/pull/97), 26 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [chore: release 0.18.0](https://github.com/Sn1kls/lyampochka-bot/pull/108), 27 Nov 2026
+- [lyampochka-bot](https://github.com/Sn1kls/lyampochka-bot): [feat(feedback): let users reach the developer, remind users with no address automatically](https://github.com/Sn1kls/lyampochka-bot/pull/107), 27 Nov 2026
 <!-- recent_end -->
 
 <sub>This list updates itself every day from my merged pull requests in public repos ([build_readme.py](build_readme.py), run by GitHub Actions).</sub>
